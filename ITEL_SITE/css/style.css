@@ -103,9 +103,9 @@ header img {
 
 .formulari form {
     display: flex;
-    flex-direction: initial;
-    gap: 20px;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
 }
 
 .formulari input {
@@ -179,3 +179,4 @@ header img {
 .tele button:hover {
     background: #3a0ca3;
 }
+
