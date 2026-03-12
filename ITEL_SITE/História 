@@ -236,19 +236,21 @@
     </div>
 
     <div class="conteudo">
-    
+        <!-- INTRO -->
         <section class="secao">
             <p style="font-size: 1.25rem; font-weight: 400; background: #f0f5fd; padding: 1.2rem 1.8rem; border-radius: 30px;">
                 <strong>O Instituto de Telecomunicações (ITEL)</strong>, localizado em Luanda, Angola, é uma instituição pública de ensino técnico-profissional tutelada pelo Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS). É reconhecido como referência nacional na formação de quadros médios em telecomunicações, informática e multimédia.
             </p>
         </section>
 
+        <!-- FUNDAÇÃO E INÍCIO -->
         <section class="secao">
             <h2>📡 Fundação e início</h2>
             <p>O ITEL foi criado em <strong>1985</strong>, com o objectivo principal de formar técnicos angolanos em telecomunicações. O contexto pós-independência (1975) exigia quadros nacionais qualificados para gerir e desenvolver infraestruturas de comunicações, após anos de guerra e dependência externa.</p>
             <p>Algumas fontes mencionam <strong>1989</strong> como ano de formalização plena ou reestruturação, mas a data mais recorrente e celebrada é <strong>1985</strong>. Em 2025, o instituto comemorou <strong>40 anos de existência</strong> com o slogan <em>“40 anos a fabricar talentos”</em>, destacando coragem, inovação e compromisso.</p>
         </section>
 
+        <!-- EVOLUÇÃO E PAPEL HISTÓRICO -->
         <section class="secao">
             <h2>⚙️ Evolução e papel histórico</h2>
             <p><strong>Anos iniciais (1985–1990):</strong> foco em eletrónica e telecomunicações para suprir empresas estatais (Detecom, EPTEL, ENATEL e depois Angola Telecom, criada em 1992).</p>
@@ -264,6 +266,7 @@
             <p style="margin-top: 1rem;">Período de José Carvalho da Rocha (1994–2008) marcou estruturação e consolidação da instituição.</p>
         </section>
 
+        <!-- MISSÃO E ATUAÇÃO ATUAL -->
         <section class="secao">
             <h2>🎯 Missão e atuação atual</h2>
             <p>O ITEL oferece cursos técnico-médios (nível médio) nas áreas:</p>
@@ -285,6 +288,7 @@
             </div>
         </section>
 
+        <!-- INFORMAÇÕES ESTRUTURADAS (cards) -->
         <section class="secao">
             <div class="info-grid">
                 <div class="info-item"><strong>📍 Localização</strong>Bairro CTT, KM-7<br>Município do Rangel, Luanda</div>
@@ -293,6 +297,7 @@
             </div>
         </section>
 
+        <!-- DIRECÇÃO ACTUAL E RESUMO -->
         <section style="margin: 2rem 0 0.5rem 0;">
             <h2>🇦🇴 Direcção e legado</h2>
             <p><span class="tag">Director-Geral 2025–2026</span> <strong>Eng.º Cláudio Gonçalves</strong></p>
@@ -300,6 +305,7 @@
             <a href="https://www.itel.gov.ao" target="_blank" class="site">🔗 Visite o site oficial do ITEL</a>
         </section>
 
+        <!-- NOTA SOBRE AS DATAS -->
         <div style="margin-top: 2.5rem; background: #f9fbfe; border-radius: 18px; padding: 1rem 2rem; font-style: italic; color: #2b4b6f; border: 1px dashed #9bb7d4;">
             <p style="margin-bottom: 0;">📅 <strong>Nota:</strong> a data de fundação é amplamente celebrada como 1985; alguns documentos oficiais referem 1989 como consolidação institucional. O texto reflecte ambas as referências, confirmando 40 anos em 2025.</p>
         </div>
