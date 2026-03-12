@@ -245,14 +245,14 @@
 
         <!-- FUNDAÇÃO E INÍCIO -->
         <section class="secao">
-            <h2>📡 Fundação e início</h2>
+            <h2> Fundação e início</h2>
             <p>O ITEL foi criado em <strong>1985</strong>, com o objectivo principal de formar técnicos angolanos em telecomunicações. O contexto pós-independência (1975) exigia quadros nacionais qualificados para gerir e desenvolver infraestruturas de comunicações, após anos de guerra e dependência externa.</p>
             <p>Algumas fontes mencionam <strong>1989</strong> como ano de formalização plena ou reestruturação, mas a data mais recorrente e celebrada é <strong>1985</strong>. Em 2025, o instituto comemorou <strong>40 anos de existência</strong> com o slogan <em>“40 anos a fabricar talentos”</em>, destacando coragem, inovação e compromisso.</p>
         </section>
 
         <!-- EVOLUÇÃO E PAPEL HISTÓRICO -->
         <section class="secao">
-            <h2>⚙️ Evolução e papel histórico</h2>
+            <h2> Evolução e papel histórico</h2>
             <p><strong>Anos iniciais (1985–1990):</strong> foco em eletrónica e telecomunicações para suprir empresas estatais (Detecom, EPTEL, ENATEL e depois Angola Telecom, criada em 1992).</p>
             <p>O ITEL esteve ligado ao desenvolvimento das telecomunicações angolanas: transição de sistemas analógicos para digitais, expansão da rede telefónica, internet e tecnologias móveis.</p>
             <h3>Diretores marcantes:</h3>
@@ -268,7 +268,7 @@
 
         <!-- MISSÃO E ATUAÇÃO ATUAL -->
         <section class="secao">
-            <h2>🎯 Missão e atuação atual</h2>
+            <h2> Missão e atuação atual</h2>
             <p>O ITEL oferece cursos técnico-médios (nível médio) nas áreas:</p>
             <ul>
                 <li>Técnico de Eletrónica e Telecomunicações</li>
@@ -278,7 +278,7 @@
             <p>Ênfase na formação de jovens para a sociedade da informação, promovendo as TIC como ferramentas de desenvolvimento humano, intelectual e regional. O lema inclui <strong>“Poucos, mas bons!”</strong>, priorizando qualidade.</p>
 
             <div class="destaque">
-                <p><strong>📌 Actividades e parcerias recentes:</strong></p>
+                <p><strong> Actividades e parcerias recentes:</strong></p>
                 <ul style="margin-bottom: 0;">
                     <li>ITEL Tech Talk Series (ex.: cibersegurança)</li>
                     <li>Parceria com <strong>Escola 42 Luanda</strong> – apresentação oficial no ITEL em março de 2026 (primeira instituição a receber o programa)</li>
@@ -291,23 +291,23 @@
         <!-- INFORMAÇÕES ESTRUTURADAS (cards) -->
         <section class="secao">
             <div class="info-grid">
-                <div class="info-item"><strong>📍 Localização</strong>Bairro CTT, KM-7<br>Município do Rangel, Luanda</div>
-                <div class="info-item"><strong>🌐 Site oficial</strong> <a href="https://www.itel.gov.ao" target="_blank" style="color:#003153; text-decoration: none; border-bottom:2px solid #f0b72f;">www.itel.gov.ao</a></div>
-                <div class="info-item"><strong>📆 40 anos (1985–2025)</strong> “a fabricar talentos”</div>
+                <div class="info-item"><strong>  Localização</strong>Bairro CTT, KM-7<br>Município do Rangel, Luanda</div>
+                <div class="info-item"><strong> Site oficial</strong> <a href="https://www.itel.gov.ao" target="_blank" style="color:#003153; text-decoration: none; border-bottom:2px solid #f0b72f;">www.itel.gov.ao</a></div>
+                <div class="info-item"><strong> 40 anos (1985–2025)</strong> “a fabricar talentos”</div>
             </div>
         </section>
 
         <!-- DIRECÇÃO ACTUAL E RESUMO -->
         <section style="margin: 2rem 0 0.5rem 0;">
-            <h2>🇦🇴 Direcção e legado</h2>
+            <h2> Direcção e legado</h2>
             <p><span class="tag">Director-Geral 2025–2026</span> <strong>Eng.º Cláudio Gonçalves</strong></p>
             <p>O ITEL é parte essencial da história da tecnologia em Angola: desde a formação inicial de quadros pós-independência até se posicionar como polo de inovação, cibersegurança, empreendedorismo digital e alinhamento com a transformação digital do país. Sua trajetória reflete a evolução das telecomunicações angolanas — de sistemas básicos para um ecossistema digital moderno.</p>
-            <a href="https://www.itel.gov.ao" target="_blank" class="site">🔗 Visite o site oficial do ITEL</a>
+            <a href="https://www.itel.gov.ao" target="_blank" class="site"> Visite o site oficial do ITEL</a>
         </section>
 
         <!-- NOTA SOBRE AS DATAS -->
         <div style="margin-top: 2.5rem; background: #f9fbfe; border-radius: 18px; padding: 1rem 2rem; font-style: italic; color: #2b4b6f; border: 1px dashed #9bb7d4;">
-            <p style="margin-bottom: 0;">📅 <strong>Nota:</strong> a data de fundação é amplamente celebrada como 1985; alguns documentos oficiais referem 1989 como consolidação institucional. O texto reflecte ambas as referências, confirmando 40 anos em 2025.</p>
+            <p style="margin-bottom: 0;"> <strong>Nota:</strong> a data de fundação é amplamente celebrada como 1985; alguns documentos oficiais referem 1989 como consolidação institucional. O texto reflecte ambas as referências, confirmando 40 anos em 2025.</p>
         </div>
     </div>
 
