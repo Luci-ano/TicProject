@@ -1,247 +1,91 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
+    <link rel="shortcut icon" href="img/colorido.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Institucional · menu estrutural</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            background: #f0f5fa;
-            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 20px;
-        }
-        .card {
-            max-width: 780px;
-            width: 100%;
-            background: white;
-            border-radius: 32px;
-            box-shadow: 0 20px 35px -8px rgba(0, 35, 60, 0.25);
-            overflow: hidden;
-            border: 1px solid rgba(0, 80, 130, 0.1);
-        }
-        .header {
-            background: linear-gradient(98deg, #002b44 0%, #0a4b6e 100%);
-            padding: 24px 30px;
-            color: white;
-        }
-        .header h1 {
-            font-weight: 500;
-            font-size: 1.9rem;
-            letter-spacing: -0.3px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-        .header h1 span {
-            background: rgba(255,255,255,0.15);
-            font-size: 1rem;
-            padding: 4px 14px;
-            border-radius: 40px;
-            font-weight: 400;
-            border: 1px solid rgba(255,255,255,0.3);
-        }
-        .conteudo {
-            padding: 28px 30px 35px;
-        }
-        .bloco {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 28px 40px;
-            justify-content: space-between;
-        }
-        .coluna {
-            flex: 1 1 200px;
-            min-width: 180px;
-        }
-        .categoria {
-            font-weight: 600;
-            font-size: 1.25rem;
-            color: #0a4b6e;
-            border-bottom: 3px solid #a2cfec;
-            padding-bottom: 6px;
-            margin: 20px 0 14px 0;
-            display: inline-block;
-        }
-        .categoria.secundaria {
-            margin-top: 10px;
-            border-bottom-color: #cadee9;
-            color: #1f5a7a;
-        }
-        .lista {
-            list-style: none;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-        .lista li {
-            font-size: 1.1rem;
-            padding: 6px 0 2px 10px;
-            border-left: 3px solid transparent;
-            transition: 0.2s;
-            color: #103c52;
-        }
-        .lista li:hover {
-            border-left-color: #0077be;
-            background: #e6f2fa;
-            padding-left: 16px;
-            border-radius: 0 8px 8px 0;
-        }
-        .separador-linha {
-            height: 2px;
-            background: linear-gradient(to right, #bdd8e9, transparent);
-            margin: 22px 0 10px 0;
-        }
-        .linha-final {
-            margin: 30px 0 8px 0;
-            border-top: 1px dashed #9bb7cc;
-            padding-top: 22px;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .item-destacado {
-            background: #eef4f9;
-            padding: 12px 20px;
-            border-radius: 60px;
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            font-weight: 500;
-            color: #004b7a;
-            border: 1px solid #b9d3e7;
-        }
-        .item-destacado::before {
-            content: "✉️";
-            font-size: 1.3rem;
-            filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));
-        }
-        .badge-rodape {
-            color: #2c5777;
-            font-size: 0.95rem;
-            background: white;
-            padding: 5px 18px;
-            border-radius: 40px;
-            border: 1px solid #b3cbd9;
-        }
-        .texto-pequeno {
-            font-size: 0.9rem;
-            color: #4a677e;
-            margin-top: 10px;
-        }
-        hr {
-            border: none;
-            height: 1px;
-            background: linear-gradient(90deg, #c0d6e4, #ecf3f8, #c0d6e4);
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
+    <title>ITEL-SOBRE</title>
 </head>
+
 <body>
-<div class="card">
-    <div class="header">
-        <h1>
-            Institucional 
-            <span>menu</span>
-        </h1>
-        <p style="opacity:0.8; margin-top: 6px;">diretório · órgãos · comunicação</p>
-    </div>
 
-    <div class="conteudo">
-        <!-- SECÇÃO SOBRE (com todas as subdivisões pedidas) -->
-        <div style="margin-bottom: 15px;">
-            <span class="categoria">SOBRE</span>
-        </div>
-        <div class="bloco">
-            <!-- coluna 1: História, Missão, Valores -->
-            <div class="coluna">
-                <ul class="lista">
-                    <li>História</li>
-                    <li>Missão</li>
-                    <li>Valores</li>
-                </ul>
-            </div>
-            <!-- coluna 2: Logotipo, Instalações -->
-            <div class="coluna">
-                <ul class="lista">
-                    <li>Logotipo</li>
-                    <li>Instalações</li>
-                </ul>
-            </div>
-            <!-- coluna 3: Infraestruturas (destacada) -->
-            <div class="coluna">
-                <ul class="lista">
-                    <li>Infraestruturas</li>
-                </ul>
-            </div>
-        </div>
+   <header>
+        <img src="img/colorido.png" alt="???">
+        <ul>
+            <li class="listHeader">
+                <a href="index.html">HOME</a>
+                <a href="sobre.html">SOBRE</a>
+                <a href="aluno.html">LOGUIN ALUNO</a>
+                <a href="directores.html">DIREÇÃO</a>
+                <a href="galeria.html">GALERIA</a>
+                <a href="noticias.html">NOTÍCIAS</a>
+            </li>
+        </ul>
 
-        <!-- pequeno espaçador visual -->
-        <div style="margin: 18px 0 8px;"></div>
+        <a href="inscricao.html" class="btn-inscrever">Inscrever-se</a>
+    </header>
 
-        <!-- SECÇÃO INSTITUCIONAL (sub-itens específicos) -->
-        <span class="categoria">Institucional</span>
-        <div class="bloco" style="margin-top: 10px;">
-            <div class="coluna">
-                <ul class="lista">
-                    <li>Perfil do Director</li>
-                    <li>Outros Órgãos</li>
-                </ul>
-            </div>
-            <div class="coluna">
-                <ul class="lista">
-                    <li>Ex Directores</li>
-                    <li>Professores</li>
-                </ul>
-            </div>
-            <!-- coluna extra para equilíbrio visual (não vazia) -->
-            <div class="coluna">
-                <ul class="lista">
-                    <li style="opacity:0.6; font-style:italic; border-left-color:transparent;"> </li>
-                </ul>
-            </div>
+    <section class="tituloPagina">
+
+        <h1>Sobre o ITEL</h1>
+        <p>Conheça mais sobre o Instituto de Telecomunicações</p>
+
+    </section>
+
+
+    <section class="sobrePagina">
+
+        <p>
+            O Instituto de Telecomunicações (ITEL), localizado no Parque do Saber em Luanda,
+            é uma instituição dedicada à formação técnica nas áreas tecnológicas.
+        </p>
+
+        <p>
+            A escola prepara estudantes nas áreas de informática,
+            telecomunicações e multimédia para os desafios do mercado de trabalho.
+        </p>
+
+    </section>
+
+    <section class="valores">
+
+        <div class="cardSobre">
+
+            <h2>🎯 Missão</h2>
+
+            <p>
+                Formar técnicos altamente qualificados nas áreas tecnológicas,
+                promovendo inovação, disciplina e excelência profissional.
+            </p>
+
         </div>
 
-        <!-- separador temático -->
-        <div class="separador-linha"></div>
+        <div class="cardSobre">
 
-        <!-- Área especial: WEBMAIL + elementos próximos (todo o conteúdo requisitado já foi listado, mas realçamos WebMail) -->
-        <div class="linha-final">
-            <div class="item-destacado">
-                WebMail
-            </div>
-            <div class="badge-rodape">
-                ⚙️ professores · directoria
-            </div>
+            <h2>🚀 Visão</h2>
+
+            <p>
+                Ser uma referência nacional no ensino técnico tecnológico
+                e contribuir para o avanço científico e tecnológico do país.
+            </p>
+
         </div>
 
-        <!-- Nota de consistência: todos os itens do texto original foram transcritos.
-             "História, Missão, Valores, Logotipo, Instalações, Infraestruturas, Institucional,
-              Perfil do Director, Outros Órgãos, Ex Directores, Professores, WebMail" 
-        -->
-        <hr style="margin: 25px 0 10px;">
-        <div class="texto-pequeno">
-            ✅ transcrição completa: <strong>História · Missão · Valores · Logotipo · Instalações · Infraestruturas · Institucional (Perfil do Director, Outros Órgãos, Ex Directores, Professores) · WebMail</strong>
+        <div class="cardSobre">
+
+            <h2>💡 Valores</h2>
+
+            <p>
+                Disciplina, inovação, responsabilidade, excelência
+                académica e compromisso com o futuro.
+            </p>
+
         </div>
 
-        <!-- linha subtil com indicação de "SOBRE" e "Institucional" integrados -->
-        <div style="display: flex; gap: 18px; margin-top: 18px; color: #306485; font-size: 0.85rem; border-left: 3px solid #90bad9; padding-left: 16px;">
-            <span>🔹 SOBRE: História, Missão, Valores, Logotipo, Instalações, Infraestruturas</span>
-            <span>🔸 Institucional: Director, Órgãos, Ex Directores, Professores</span>
-        </div>
-    </div>
-    <!-- rodapé simples do card -->
-    <div style="background: #e7f0f8; padding: 12px 30px; border-top: 1px solid #c1dae8; color: #1d4e6f;">
-        <span style="display: flex; align-items: center; gap: 12px;">📋 12 itens — estrutura baseada em 1000057611.jpg</span>
-    </div>
-</div>
+    </section>
+
 </body>
+
 </html>
